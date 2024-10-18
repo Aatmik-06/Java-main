@@ -37,7 +37,7 @@ class Student {
     }
 }
 
-public class JavaLang {
+public class JavaLangObjectToString {
     public static void main(String[] args) {
 
         Student obj = new Student();
