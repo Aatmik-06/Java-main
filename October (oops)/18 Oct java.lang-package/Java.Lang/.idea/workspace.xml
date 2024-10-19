@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea3cc415-66ef-4907-9695-ab3a88e1d24b" name="Changes" comment="java First Commit">
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/Assignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/src/AgeCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/src/EvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/src/FactorialCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/src/GradeCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/src/LargestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05 Oct Assignment/Assignment/src/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/14 August/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/14 August/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/14 August/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/14 August/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/14 August/14 August.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/14 August/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/28 August.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/src/CharArrayCountingVowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/src/CharacterArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/src/CountUpperCaseLetters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/28 August/src/MatchingMyName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/29 August/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/29 August/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/29 August/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/29 August/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/29 August/29 August.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/29 August/src/CharacterArrayQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/29 August/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/31 August/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/31 August/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/31 August/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/31 August/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/31 August/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/31 August/31 August.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/31 August/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/31 August/src/MultiDimensionalArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/31 August/src/MultiDimenssionArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/ArrayPractice" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/August.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../August/J6-Multi-Dimenssion-Array" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/ConditionalStatement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/src/Bingo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/src/CheckDivisibility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/src/CurrentBalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/src/EqualNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/src/MakeEvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/src/PickOddOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionalStatement/src/PositiveInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/01 &amp; 02 &amp; 03Oct Type Of Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/out/production/01 &amp; 02 Oct Type Of Classes/Acount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/out/production/01 &amp; 02 Oct Type Of Classes/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/out/production/01 &amp; 02 Oct Type Of Classes/AnonymousClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/out/production/01 &amp; 02 Oct Type Of Classes/AnonymousClass$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/out/production/01 &amp; 02 Oct Type Of Classes/AnonymousClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/out/production/01 &amp; 02 Oct Type Of Classes/ExampleFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/out/production/01 &amp; 02 Oct Type Of Classes/FeaturesOfOops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/out/production/01 &amp; 02 Oct Type Of Classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/out/production/01 &amp; 02 Oct Type Of Classes/testFun$1Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/out/production/01 &amp; 02 Oct Type Of Classes/testFun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/Types of Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/src/AnonymousClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/src/BankApp_Customer/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/src/BankApp_Employee/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/src/ExampleFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/src/FeaturesOfOopsAbsEnc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01 02 &amp; 03 Oct Type Of Classes/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04 Oct Scope of variable/scope of variable/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04 Oct Scope of variable/scope of variable/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04 Oct Scope of variable/scope of variable/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04 Oct Scope of variable/scope of variable/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04 Oct Scope of variable/scope of variable/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04 Oct Scope of variable/scope of variable/scope of variable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04 Oct Scope of variable/scope of variable/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04 Oct Scope of variable/scope of variable/src/ScopeOfVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04 Oct Scope of variable/scope of variable/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/07,08 Oct features of oops - ploymorphosism static.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/out/production/07,08 Oct features of oops - ploymorphosism/Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/out/production/07,08 Oct features of oops - ploymorphosism/ConstructorOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/out/production/07,08 Oct features of oops - ploymorphosism/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/out/production/07,08 Oct features of oops - ploymorphosism/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/out/production/07,08 Oct features of oops - ploymorphosism/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/out/production/07,08 Oct features of oops - ploymorphosism/PolymorphismFunctionOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/untitled/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/untitled/Polymorphism.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/untitled/src/Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/untitled/src/ConstructorOverloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07 Oct features of oops - ploymorphosism/untitled/src/PolymorphismFunctionOverloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09 Oct Dynamic Polymorphism/Dynamic Polymorphism/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09 Oct Dynamic Polymorphism/Dynamic Polymorphism/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09 Oct Dynamic Polymorphism/Dynamic Polymorphism/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09 Oct Dynamic Polymorphism/Dynamic Polymorphism/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09 Oct Dynamic Polymorphism/Dynamic Polymorphism/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09 Oct Dynamic Polymorphism/Dynamic Polymorphism/Dynamic Polymorphism.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09 Oct Dynamic Polymorphism/Dynamic Polymorphism/src/DynamicPolymorphismAbstractDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09 Oct Dynamic Polymorphism/Dynamic Polymorphism/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 Oct Inheretence/Inheretence/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 Oct Inheretence/Inheretence/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 Oct Inheretence/Inheretence/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 Oct Inheretence/Inheretence/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 Oct Inheretence/Inheretence/Inheretence.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 Oct Inheretence/Inheretence/src/Inheretence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 Oct Inheretence/Inheretence/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 Oct inheritance continue/Inhertiance Hierarchy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 Oct inheritance continue/Inhertiance Hierarchy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 Oct inheritance continue/Inhertiance Hierarchy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 Oct inheritance continue/Inhertiance Hierarchy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 Oct inheritance continue/Inhertiance Hierarchy/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 Oct inheritance continue/Inhertiance Hierarchy/Inhertiance Hierarchy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 Oct inheritance continue/Inhertiance Hierarchy/src/Hierarchical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 Oct inheritance continue/Inhertiance Hierarchy/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java.Lang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaLangObjectToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/03 Sept/03 Sept.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/03 Sept/Average_Array/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/03 Sept/Average_Array/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/03 Sept/Average_Array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/03 Sept/Average_Array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/03 Sept/Average_Array/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/03 Sept/Average_Array/Average_Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/03 Sept/Average_Array/src/ArrayElementsSumAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/03 Sept/Average_Array/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/04 Sept/04 Sept.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/04 Sept/String Java.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/04 Sept/String/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/04 Sept/String/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/04 Sept/String/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/04 Sept/String/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/04 Sept/String/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/04 Sept/String/String.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/04 Sept/String/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/04 Sept/String/src/StringJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/05 Sept.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/StringJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/src/JavaString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/src/StringQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/src/StringQuestion2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/05 Sept/StringJava/src/StringQuestion3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/06 Sept/06 Sept.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/06 Sept/StringMethods/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/06 Sept/StringMethods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/06 Sept/StringMethods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/06 Sept/StringMethods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/06 Sept/StringMethods/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/06 Sept/StringMethods/StringMethods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/06 Sept/StringMethods/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/06 Sept/StringMethods/src/StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/09 Sept/09 Sept.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/09 Sept/StringMethods/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/09 Sept/StringMethods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/09 Sept/StringMethods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/09 Sept/StringMethods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/09 Sept/StringMethods/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/09 Sept/StringMethods/StringMethods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/09 Sept/StringMethods/src/ArrayOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/09 Sept/StringMethods/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/10 Sept/10 Sept.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/10 Sept/Array Of Strings/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/10 Sept/Array Of Strings/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/10 Sept/Array Of Strings/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/10 Sept/Array Of Strings/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/10 Sept/Array Of Strings/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/10 Sept/Array Of Strings/Array Of Strings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/10 Sept/Array Of Strings/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/StringBulider/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/StringBulider/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/StringBulider/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/StringBulider/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/StringBulider/StringBulider.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/StringBulider/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/StringBulider/src/StringBuilderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/neww/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/neww/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/neww/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/neww/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/neww/neww.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/neww/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept StringBuilder Demo/neww/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/12 Sept/StringBulider/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/13 Sept StringBuilder2/StringBuilder/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/13 Sept StringBuilder2/StringBuilder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/13 Sept StringBuilder2/StringBuilder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/13 Sept StringBuilder2/StringBuilder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/13 Sept StringBuilder2/StringBuilder/StringBuilder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/13 Sept StringBuilder2/StringBuilder/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/13 Sept StringBuilder2/StringBuilder/src/StringBuilder2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/13 Sept StringBuilder2/StringBuilder/src/patterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/14 Sept Array Questions/Array Questions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/14 Sept Array Questions/Array Questions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/14 Sept Array Questions/Array Questions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/14 Sept Array Questions/Array Questions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/14 Sept Array Questions/Array Questions/Array Questions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/14 Sept Array Questions/Array Questions/src/ArrayQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/14 Sept Array Questions/Array Questions/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/28 Sept oops/OopsDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/28 Sept oops/OopsDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/28 Sept oops/OopsDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/28 Sept oops/OopsDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/28 Sept oops/OopsDemo/OopsDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/28 Sept oops/OopsDemo/src/DemoOops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/28 Sept oops/OopsDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/30 Sept/TestEmployee-oops-2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/30 Sept/TestEmployee-oops-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/30 Sept/TestEmployee-oops-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/30 Sept/TestEmployee-oops-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/30 Sept/TestEmployee-oops-2/TestEmployee-oops-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/30 Sept/TestEmployee-oops-2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/30 Sept/TestEmployee-oops-2/src/TestEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../September/30 Sept/TestEmployee-oops-2/src/TypeOfClasses.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nc7nTwCShvklj2mDPSoNYB0fLN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JavaLang.executor": "Run",
+    "Application.ObjectEquals.executor": "Run",
+    "Application.ObjectHashCode.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVA 1/August/ArrayPractice Questions",
+    "onboarding.tips.debug.path": "D:/JAVA 1/October (oops)/18 Oct java.lang-package/Java.Lang/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea3cc415-66ef-4907-9695-ab3a88e1d24b" name="Changes" comment="" />
+      <created>1729260679058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729260679058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
