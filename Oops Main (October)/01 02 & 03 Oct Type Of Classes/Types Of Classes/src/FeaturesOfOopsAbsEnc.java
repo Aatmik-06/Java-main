@@ -3,7 +3,7 @@
 //        Abstraction
 //        Encapsulation
 //        polymorphism
-//        Inheretence
+//        Inheritance
 
 //        Abstraction  and encapsulation is used to show and hide some information
 //        encapsulation will hide data
