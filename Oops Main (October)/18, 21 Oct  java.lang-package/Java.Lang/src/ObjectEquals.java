@@ -55,7 +55,7 @@ public class ObjectEquals {
         e2.setSid(111);
 //        it will compare reference
         System.out.println("Reference Compared = "+(h1==e2));
-//        it will compare data
+//        it will compare data because we have override equals class
         System.out.println("Data Compared = "+h1.equals(e2));
 
     }
