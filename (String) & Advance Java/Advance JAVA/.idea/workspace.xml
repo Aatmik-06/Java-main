@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1b2f9d2-1c46-4ac2-b420-c9c4543e26ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../12 Nov (Exception Handling)/ExceptionHandling/src/ArithmeticExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 Nov (Exception Handling)/ExceptionHandling/src/FinallyExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 Nov (Exception Handling)/ExceptionHandling/src/UserDefineException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreading/MultiThreading/src/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread making Runnable Interface/RunnableInterface/src/RunnableInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array (August)/ArrayPractice Questions" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array (August)/ArrayPractice Questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array (August)/J6-Multi-Dimenssion-Array" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array (August)/J6-Multi-Dimenssion-Array" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../(String Builder)07 Nov.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ow2DAox9aie044tpIZx7Bc0Rzl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVA (Basic-Main)/November (String)/Advance JAVA/MultiThreading/ThreadPriority"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1b2f9d2-1c46-4ac2-b420-c9c4543e26ce" name="Changes" comment="" />
+      <created>1731766195559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731766195559</updated>
+    </task>
+    <servers />
+  </component>
+</project>

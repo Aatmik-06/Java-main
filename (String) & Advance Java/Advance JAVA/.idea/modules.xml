@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advance JAVA.iml" filepath="$PROJECT_DIR$/.idea/Advance JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread making Runnable Interface/Thread making Runnable Interface.iml" filepath="$PROJECT_DIR$/Thread making Runnable Interface/Thread making Runnable Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/ThreadPriority/ThreadPriority.iml" filepath="$PROJECT_DIR$/MultiThreading/ThreadPriority/ThreadPriority.iml" />
+    </modules>
+  </component>
+</project>
