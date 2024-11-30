@@ -1,8 +1,5 @@
 import javax.swing.*;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
 
 //We have to use java IO Package
 // Inside Java IO Package there are some classes
@@ -31,6 +28,7 @@ public class FileHandlingDemo {
             System.out.println(f.getAbsoluteFile());
             System.out.println(f.getAbsolutePath());
         }
+
         //                now we have to write data in that file
         try {
 //            we have to use true so append will get activated
@@ -49,6 +47,24 @@ public class FileHandlingDemo {
         }catch (IOException ex1){
             System.out.println(ex1);
 
+        }
+
+//        Reading Data From File
+
+        try
+        {
+//            Buffer is a temporary memory creater
+//            Buffer reader will read all the lines in data
+//            Buffer Reader has readLine method and file Reader doesnot have this method spo we use Buffer Reader   
+
+            FileReader fr1 = new FileReader(f);
+            BufferedReader br1 = new BufferedReader(fr1);
+            String Data;
+            while ((Data=br1.readLine())!=null){
+                System.out.println("Data = " + Data);
+            }
+        } catch (IOException e) {
+            throw new RuntimeException(e);
         }
 
     }
