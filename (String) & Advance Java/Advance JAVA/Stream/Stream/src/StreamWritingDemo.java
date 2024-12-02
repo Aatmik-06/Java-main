@@ -17,14 +17,14 @@ public class StreamWritingDemo {
             dos.writeBoolean(true);
             dos.writeChars("Finished");
             dos.close();
-            dos.close();
-            dos.close();
+            bos.close();
+            fos.close();
 //            data will be in  byte form
 //            so data will be accessed in encrypted format and
 //            no one can access our data and string will not be encrypted String will be in normal form
 //            can see output in D:\JAVA (Basic-Main)\(String) & Advance Java\Advance JAVA\Stream\StreamWriting.txt
         } catch (IOException e) {
-            throw new RuntimeException(e);
+            System.out.println("e = " + e);
         }
     }
 }
