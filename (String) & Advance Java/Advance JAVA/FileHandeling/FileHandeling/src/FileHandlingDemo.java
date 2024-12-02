@@ -55,7 +55,7 @@ public class FileHandlingDemo {
         {
 //            Buffer is a temporary memory creater
 //            Buffer reader will read all the lines in data
-//            Buffer Reader has readLine method and file Reader doesnot have this method spo we use Buffer Reader   
+//            Buffer Reader has readLine method and file Reader doesnot have this method spo we use Buffer Reader
 
             FileReader fr1 = new FileReader(f);
             BufferedReader br1 = new BufferedReader(fr1);
