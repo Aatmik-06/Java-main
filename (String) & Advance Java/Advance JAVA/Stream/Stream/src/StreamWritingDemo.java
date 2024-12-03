@@ -12,10 +12,10 @@ public class StreamWritingDemo {
 //            to write data and only we have to give data in byte format
 //            DataOutputStream is very advance and used nowadays
             DataOutputStream dos = new DataOutputStream(bos);
-            dos.writeChars("Hello Java");
+            dos.writeUTF("Hello Java");
             dos.writeDouble(24.54);
             dos.writeBoolean(true);
-            dos.writeChars("Finished");
+            dos.writeUTF("Finished");
             dos.close();
             bos.close();
             fos.close();
